@@ -16,9 +16,9 @@ Siga os passos abaixo para configurar o projeto:
    ```bash
    git clone https://github.com/seu_usuario/seu_repositorio.git
 2. **Comandos para criação do projeto**
-npm init -y
-npm i -D @playwright/test
-npx playwright install
+#1. npm init -y
+#2. npm i -D @playwright/test
+#3. npx playwright install
 
 ## Link do video
 https://youtu.be/ovRm43GPJAk
