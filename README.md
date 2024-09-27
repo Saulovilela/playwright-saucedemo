@@ -20,5 +20,5 @@ npm init -y
 npm i -D @playwright/test
 npx playwright install
 
-## link do video
+## Link do video
 https://youtu.be/ovRm43GPJAk
