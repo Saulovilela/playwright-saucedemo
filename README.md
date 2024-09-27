@@ -18,4 +18,7 @@ Siga os passos abaixo para configurar o projeto:
 2. **Comandos para criação do projeto**
 npm init -y
 npm i -D @playwright/test
-npx playwright install   
+npx playwright install
+
+## link do video
+https://youtu.be/ovRm43GPJAk
